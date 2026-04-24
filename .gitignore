@@ -44,3 +44,4 @@ doc/__pycache__
 __MACOSX/
 .AppleDouble
 .LSOverride
+.npmrc
