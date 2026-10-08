@@ -55,7 +55,30 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+| Contributor | Commits |
+|---|---|
+| [@stgraber](https://github.com/stgraber) | 1614 |
+| [@gibmat](https://github.com/gibmat) | 1166 |
+| [@luissimas](https://github.com/luissimas) | 19 |
+| [@jukoby](https://github.com/jukoby) | 12 |
+| [@breml](https://github.com/breml) | 11 |
+| [@AmandaCameron](https://github.com/AmandaCameron) | 6 |
+| [@quagsirus](https://github.com/quagsirus) | 5 |
+| [@pranav767](https://github.com/pranav767) | 5 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 4 |
+| [@bensmrs](https://github.com/bensmrs) | 3 |
+| [@hnakamur](https://github.com/hnakamur) | 2 |
+| [@masnax](https://github.com/masnax) | 2 |
+| [@stephendotcarter](https://github.com/stephendotcarter) | 2 |
+| [@gdonval](https://github.com/gdonval) | 1 |
+| [@jasisk](https://github.com/jasisk) | 1 |
+| [@Triiltz](https://github.com/Triiltz) | 1 |
+| [@ona-agent](https://github.com/ona-agent) | 1 |
+| [@theoludwig](https://github.com/theoludwig) | 1 |
+| [@chribro88](https://github.com/chribro88) | 1 |
+| [@daw1012345](https://github.com/daw1012345) | 1 |
+| [@dwlfrth](https://github.com/dwlfrth) | 1 |
+| [@mgariepy](https://github.com/mgariepy) | 1 |
 <!-- AI:end:contributors -->
 
 ## Origins
@@ -70,6 +93,8 @@ _Original project — no upstream influences recorded._
 _No additional resource files found._
 <!-- AI:end:resources -->
 
+## Accessibility
+
 <!-- AI:start:accessibility -->
 This repo uses automated accessibility auditing via `check-accessibility.yml`.
 
@@ -81,7 +106,8 @@ WCAG 2.1 AA HTML compliance, audio overview (espeak-ng), and Braille output (lib
 
 Run the [Check Accessibility](https://github.com/Interested-Deving-1896/incus-os/actions/workflows/check-accessibility.yml)
 workflow to generate the first report and accessibility artifacts.
-See [DOCS/accessibility.md](https://github.com/Interested-Deving-1896/incus-os/blob/main/DOCS/accessibility.md) for the full reference.
+See the [W3C Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+for the underlying accessibility reference.
 <!-- AI:end:accessibility -->
 
 ## License
