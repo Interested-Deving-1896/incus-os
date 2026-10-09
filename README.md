@@ -64,8 +64,8 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@breml](https://github.com/breml) | 11 |
 | [@AmandaCameron](https://github.com/AmandaCameron) | 6 |
 | [@quagsirus](https://github.com/quagsirus) | 5 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
 | [@pranav767](https://github.com/pranav767) | 5 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 4 |
 | [@bensmrs](https://github.com/bensmrs) | 3 |
 | [@hnakamur](https://github.com/hnakamur) | 2 |
 | [@masnax](https://github.com/masnax) | 2 |
